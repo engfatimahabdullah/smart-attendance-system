@@ -23,12 +23,16 @@ I worked as part of the project team, focusing on hardware setup and system inte
 Project Status
 
 Successfully implemented and tested.
+
 Hardware Setup
 
 The prototype integrates an ESP32-S3 microcontroller with an RFID RC522 reader for card-based identification.
 
 Hardware Connection
 
+![ESP32-S3 and RFID RC522 Setup](IMG_5708.jpeg)
+
+![RFID Attendance Prototype](IMG_5709.jpeg)
 
 
 
