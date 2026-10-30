@@ -36,7 +36,14 @@ Hardware Connection
 
 ![System Testing](IMG_8922.jpeg)
 
+System Workflow
 
+1. RFID Identification: The RFID RC522 reader scans the user’s RFID card.
+2. Microcontroller Processing: The ESP32-S3 reads the card ID and processes the attendance data.
+3. Wi-Fi Communication: The ESP32-S3 sends the attendance information through Wi-Fi.
+4. Cloud Integration: Google Apps Script processes the incoming data and records it in Google Sheets.
+5. Data Visualization: Looker Studio displays attendance records through a dashboard.
+6. Notifications: Telegram notifications are sent when an unregistered RFID card is detected.
 
 
 
