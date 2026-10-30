@@ -50,3 +50,12 @@ System Workflow
 [Watch the Smart Attendance System Demo](./video-output-A8434B87-ED92-4ACE-8A08-EF362B0F0A09-1.mov)
 
 Demo video showing the system in operation.
+
+## Project Highlights
+
+- **Automated Attendance:** Identifies users through RFID cards and records attendance timestamps.
+- **IoT Connectivity:** Uses ESP32-S3 and Wi-Fi to transmit attendance data.
+- **Cloud Integration:** Connects the hardware system to Google Sheets through Google Apps Script.
+- **Data Visualization:** Presents attendance records through a Looker Studio dashboard.
+- **Real-Time Notifications:** Sends Telegram alerts when an unregistered RFID card is detected.
+- **Tested Prototype:** Successfully implemented and tested as a working system.
