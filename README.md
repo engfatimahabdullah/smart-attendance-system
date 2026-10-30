@@ -49,3 +49,4 @@ System Workflow
 
 [Watch the Smart Attendance System Demo](./video-output-A8434B87-ED92-4ACE-8A08-EF362B0F0A09-1.mov)
 
+Demo video showing the system in operation.
