@@ -60,7 +60,7 @@ Demo video showing the system in operation.
 - **Real-Time Notifications:** Sends Telegram alerts when an unregistered RFID card is detected.
 - **Tested Prototype:** Successfully implemented and tested as a working system.
 
-My Contributions
+## My Contributions
 
 * Implemented Wi-Fi connectivity for the ESP32-S3.
 * Worked on HTTPS data transmission to Google Apps Script and Google Sheets.
