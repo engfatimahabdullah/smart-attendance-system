@@ -34,6 +34,7 @@ Hardware Connection
 
 ![RFID Attendance Prototype](IMG_5709.jpeg)
 
+![System Testing](IMG_8922.jpeg)
 
 
 
