@@ -45,5 +45,7 @@ System Workflow
 5. Data Visualization: Looker Studio displays attendance records through a dashboard.
 6. Notifications: Telegram notifications are sent when an unregistered RFID card is detected.
 
+## Project Demo
 
+[Watch the Smart Attendance System Demo](./video-output-A8434B87-ED92-4ACE-8A08-EF362B0F0A09-1.mov)
 
